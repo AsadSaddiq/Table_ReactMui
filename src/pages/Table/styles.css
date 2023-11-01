@@ -1,0 +1,26 @@
+.MuiDataGrid-columnHeaders {
+  min-height: "10px !important";
+  height: "23px !important";
+}
+.MuiDataGrid-row {
+  min-height: "10px !important";
+  height: "23px !important";
+}
+.MuiTablePagination-select {
+  min-height: "1px !important";
+}
+MuiTablePagination-toolbar {
+  min-height: "1px !important";
+}
+.MuiTextField-root label[data-shrink="true"] {
+  top: 0;
+}
+#combo-box-demo7,
+#combo-box-demo6,
+#combo-box-demo5,
+#combo-box-demo4,
+#combo-box-demo3,
+#combo-box-demo2 #combo-box-demo1 {
+  position: "relative";
+  padding: "-2px";
+}
